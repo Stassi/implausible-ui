@@ -1,0 +1,17 @@
+{
+  "name": "implausible-ui",
+  "version": "0.0.1",
+  "private": true,
+  "license": "MIT",
+  "author": "Andreas Stassivik <andreas@stassi.net> (https://github.com/Stassi)",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "9.0.6",
+    "react": "16.9.0",
+    "react-dom": "16.9.0"
+  }
+}
