@@ -7,6 +7,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "lint": "standard",
     "start": "next start"
   },
   "dependencies": {
@@ -17,5 +18,8 @@
     "prop-types": "^15.7.2",
     "react": "16.9.0",
     "react-dom": "16.9.0"
+  },
+  "devDependencies": {
+    "standard": "^14.3.1"
   }
 }
