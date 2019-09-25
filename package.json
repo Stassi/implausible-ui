@@ -21,7 +21,6 @@
   },
   "devDependencies": {
     "babel-eslint": "^10.0.3",
-    "markdown-to-jsx": "^6.10.3",
     "standard": "^14.3.1"
   },
   "standard": {
